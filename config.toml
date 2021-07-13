@@ -1,0 +1,32 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "The Smilliams Wedding Celebration 2022"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Celebrating the wonderful marriage of Alex Smolen and Chris Williams in two massive beach houses - August 13 - 20, 2022"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = ""
+  twitter = ""
+  email = "fam@smilliams.com"
+  instagram = ""
+  linkedin = ""
+  telegram = ""

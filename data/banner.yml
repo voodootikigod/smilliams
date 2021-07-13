@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Smilliams Wedding Celebration"
+subtitle: |
+  August 13 - 20, 2022 : Sandbridge, VA
+content : |
+  2020 sucked, but 2021 brought Alex Smolen and Chris Williams together in matrimony (yay). While we kept the wedding small, we invite you a celebration that will be full tilt Smilliams!
+button:
+  label : "Fuck Yea"
+  link : "#first"
+image : "images/banner.jpg"
+
